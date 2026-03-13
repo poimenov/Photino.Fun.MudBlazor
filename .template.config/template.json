@@ -1,0 +1,16 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "poimenov",
+    "classifications": [ "Photino", "Blazor", "Fun.Blazor", "Desktop", "MudBlazor" ],
+    "identity": "Photino.Fun.MudBlazor",
+    "name": "Photino Fun MudBlazor DesktopApp",
+    "shortName": "photino-fun-mudblazor",
+    "sourceName": "Photino.Fun.MudBlazor",
+    "type": {
+      "language": "F#"
+    },      
+    "tags": {
+      "language": "F#",
+      "type": "project"
+    }   
+}

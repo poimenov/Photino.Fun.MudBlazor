@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>        
+    <data name="SwitchTheme" xml:space="preserve">
+        <value>Переключить тему</value>
+    </data> 
+    <data name="Home" xml:space="preserve">
+        <value>Домашняя</value>
+    </data>     
+    <data name="Counter" xml:space="preserve">
+        <value>Счётчик</value>
+    </data>    
+    <data name="Weather" xml:space="preserve">
+        <value>Погода</value>
+    </data>    
+    <data name="HomeText" xml:space="preserve">
+        <value>Добро пожаловать в ваше новое приложение Photino.Fun.MudBlazor!</value>
+    </data>    
+    <data name="Links" xml:space="preserve">
+        <value>Полезные ссылки: </value>
+    </data>         
+    <data name="CurrentCount" xml:space="preserve">
+        <value>Текущее кол-во: </value>
+    </data>    
+    <data name="ClickMe" xml:space="preserve">
+        <value>Нажми меня</value>
+    </data> 
+    <data name="WeatherText" xml:space="preserve">
+        <value>Этот компонент показывает отображение данных.</value>
+    </data>
+    <data name="WeatherHeader" xml:space="preserve">
+        <value>Прогноз погоды</value>
+    </data>
+    <data name="Date" xml:space="preserve">
+        <value>Дата</value>
+    </data> 
+    <data name="TempC" xml:space="preserve">
+        <value>Темп. (C)</value>
+    </data> 
+    <data name="TempF" xml:space="preserve">
+        <value>Темп. (F)</value>
+    </data>     
+    <data name="Summary" xml:space="preserve">
+        <value>Итог</value>
+    </data>             
+</root>

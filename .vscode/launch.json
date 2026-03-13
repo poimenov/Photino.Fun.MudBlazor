@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/Photino.Fun.MudBlazor/bin/Debug/net10.0/Photino.Fun.MudBlazor.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/Photino.Fun.MudBlazor",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
+}
