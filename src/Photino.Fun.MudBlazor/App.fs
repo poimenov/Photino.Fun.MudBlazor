@@ -15,7 +15,6 @@ type WeatherForecastProvider = JsonProvider<""" [{"date": "2018-05-06", "tempera
 
 type IShareStore with
     member store.Count = store.CreateCVal(nameof store.Count, 0)
-    member store.IsMenuOpen = store.CreateCVal(nameof store.IsMenuOpen, true)
     member store.DrawerOpen = store.CreateCVal(nameof store.DrawerOpen, true)
     member store.IsDarkMode = store.CreateCVal(nameof store.IsDarkMode, true)
 
