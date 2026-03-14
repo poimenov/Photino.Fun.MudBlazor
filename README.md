@@ -29,6 +29,6 @@ dotnet new install ./
 ### Usage
 ```bash
 dotnet new photino-fun-mudblazor -o MyApp
-cd MyApp
+cd MyApp/src/MyApp
 dotnet run
 ```
